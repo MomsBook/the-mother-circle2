@@ -78,7 +78,7 @@ export default function Home() {
             target="_blank"
             className="rounded-full bg-[#b87b6a] px-5 py-2 text-sm font-semibold text-white shadow transition hover:scale-105"
           >
-            Pre-Order
+            Pre-Order Kindle Version
           </a>
         </div>
       </header>
