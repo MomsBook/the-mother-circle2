@@ -64,7 +64,7 @@ export default function Home() {
             target="_blank"
             className="rounded-full bg-[#b87b6a] px-5 py-2 text-sm font-semibold text-white"
           >
-            Pre-Order
+            Order Now
           </a>
         </div>
       </header>
@@ -96,7 +96,7 @@ export default function Home() {
                 target="_blank"
                 className="inline-block rounded-2xl bg-[#b87b6a] px-8 py-4 font-semibold text-white"
               >
-                Pre-Order Now
+                Order Now
               </a>
 
               <a
